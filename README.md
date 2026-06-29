@@ -57,7 +57,7 @@ MovieLens Latest Small Dataset
 
 ### Recommendation Example
 
-<img width="992" height="370" alt="image" src="https://github.com/user-attachments/assets/69cca7d5-a923-463b-b1ef-6a96041e155e" />
+<img width="1162" height="336" alt="image" src="https://github.com/user-attachments/assets/219efbdf-4e8e-4a61-a883-62778034af07" />
 
 
 ## 💡 Future Improvements
